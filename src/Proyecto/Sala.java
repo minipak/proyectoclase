@@ -21,6 +21,7 @@ public class Sala {
 	public static JPanel jp2[][]= new JPanel[9][8];
 	public JPanel jp99=new JPanel();//ultimo
 	//Scrollbar
+	
 	public static JScrollBar sb10 = new JScrollBar();
 	public static JScrollBar sb11 = new JScrollBar();
 //	sb1[0] = new JScrollBar();
